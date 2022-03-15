@@ -22,23 +22,23 @@ Execute o main.java
 - Saque da Poupança (15)
 
 # RESUTLADO ESPERADO
-==== Extrato Conta Corrente ====
-Titular androvisck
-Agencia 1
-Numero 1
-Saldo 25,00
-==== Extrato Conta Poupanca ====
-Titular androvisck
-Agencia 1
-Numero 2
-Saldo 75,00
-==== Extrato Conta Corrente ====
-Titular androvisck
-Agencia 1
-Numero 1
-Saldo 15,00
-==== Extrato Conta Poupanca ====
-Titular androvisck
-Agencia 1
-Numero 2
-Saldo 60,00
+==== Extrato Conta Corrente ====  
+Titular androvisck  
+Agencia 1  
+Numero 1  
+Saldo 25,00  
+==== Extrato Conta Poupanca ====  
+Titular androvisck  
+Agencia 1  
+Numero 2  
+Saldo 75,00  
+==== Extrato Conta Corrente ====  
+Titular androvisck  
+Agencia 1  
+Numero 1  
+Saldo 15,00  
+==== Extrato Conta Poupanca ====  
+Titular androvisck  
+Agencia 1  
+Numero 2  
+Saldo 60,00  
