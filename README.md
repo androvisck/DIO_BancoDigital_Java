@@ -11,7 +11,7 @@ Bootcamp - GFT Quality Assurance #1
 Reforçar o conhecimento em Programação Orientada a Objetos (POO) utilizando Java. Trata-se de um desafio totalmente prático, que aborda os pilares da orientação a objetos. Estes, por sua vez, são devidamente explorados no contexto bancário.
 
 ## EXECUÇÃO
-Exwecute o maim.java
+Execute o main.java
 
 # ENTRADAS
 - Criação de um Cliente (androvisck)
